@@ -1,5 +1,5 @@
-x = 15
-y = 4
+x = 22
+y = 7
 
 print(x + y)
 print(x - y)
