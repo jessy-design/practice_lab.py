@@ -1,4 +1,5 @@
-x = 12
-y = 5
+numbers = [1, 2, 3, 4, 5]
 
-print(x / y)
+if (count := len(numbers)) > 3:
+    print(f"List has {count} elements")
+
